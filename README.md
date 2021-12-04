@@ -25,3 +25,9 @@ The challenges are distributed into 5 main categories:
 5. [Reversing](Reversing/)
 
 Within each category there are 5 challenges.
+
+
+
+---
+
+Note: You will need
